@@ -38,7 +38,7 @@ dependencies:
   amplify_flutter: ^2.2.0
   amplify_core: ^2.2.0
   amplify_auth_cognito: ^2.2.0
-
+  amplify_analytics_pinpoint: ^2.2.0
 
 dev_dependencies:
   flutter_test:
@@ -46,7 +46,7 @@ dev_dependencies:
 
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
-  # activated in the `analysis_options.yaml` f:amplify_analytics_pinpointile located at the root of your
+  # activated in the `analysis_options.yaml` file located at the root of your
   # package. See that file for information about deactivating specific lint
   # rules and activating additional ones.
   flutter_lints: ^3.0.0
